@@ -1,0 +1,2 @@
+# ForritunarKepniFramhaldskolana2022
+Fyrir dæmin hjá FForritunarKepniFramhaldskolana2022
