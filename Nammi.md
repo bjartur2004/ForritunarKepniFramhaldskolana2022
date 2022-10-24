@@ -1,4 +1,4 @@
-Nafni : Nammi
+Nafn : Nammi
 
 Erfiðleiki : Miðlúngs
 
