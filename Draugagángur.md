@@ -15,3 +15,14 @@ lína 2 : streingurinn
 
 ### Úttak : 
 "Bregða" eða "Ekki bregða"
+
+### Dæmi Inntak
+```
+a
+Konni Gunnar 
+```
+
+### Dæmi Úttak
+```
+Bregða
+```
