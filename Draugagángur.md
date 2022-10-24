@@ -1,6 +1,6 @@
-Nafn : Draugagángur
+### Nafn : Draugagángur
 
-Erfiðleiki : Frekar Miðlúngs 
+### Erfiðleiki : Frekar Miðlúngs 
 
 ### Lýsing :
 Draugurinn Andir vill bara hræða fólk sem hefur uppóhalds stafin hansí nafninu en hann er ekki það góður á að sjá það þannig að hann bað þig um að skifa forrit sem gerir það fyrir hann
