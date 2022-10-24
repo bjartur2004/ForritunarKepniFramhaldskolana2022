@@ -3,18 +3,21 @@ Fyrir dæmin hjá ForritunarKepniFramhaldskolana2022
 
 ## Template
 <details>
+  
 ### Nafn: nafn
 
-### Lýsing:
+### Erfiðleiki : 
+  
+### Lýsing :
 
-### Dæmi: 
+### Dæmi : 
 
-### Inntak: 
+### Inntak : 
 
-### Úttak: 
+### Úttak : 
 
-### Dæmi Intak:
+### Dæmi Intak :
 
-### Dæmi Úttak:
+### Dæmi Úttak :
 
 </details>
