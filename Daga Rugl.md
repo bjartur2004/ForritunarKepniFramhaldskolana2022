@@ -3,7 +3,7 @@
   
 ### Nafn: Daga Rugl
 
-### Erfiðleiki : Miðlúngs
+### Erfiðleiki : Erfitt?
   
 ### Lýsing : Nonni verslunarsjóri krónunar vill vita hvað það er lángt í hrekjavöku en hann er ekki það góður þegar það kemur að dagatölum þannig að hann bað þið um að skrifa kóða sem finnur það út fyirir sig
 
