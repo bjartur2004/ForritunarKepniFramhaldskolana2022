@@ -7,7 +7,7 @@ KökuSmellir er geisivinsæll leikur um að smella á köku eins og brjálæðin
 Núna villt þú vita hversu margar kökur á sekúndu þú færð áður en þú kaupir aðstoðarmennina. 
 
 ### Dæmi : 
-það eru þrjár tegundir af aðstoðarmönnum -----
+það eru þrjár tegundir af aðstoðarmönnum 
 
 ### Inntak : 
 þrjár heiltölur. fjöldi bendla, fjöldi amma og fjöldi verksmiðna. 
