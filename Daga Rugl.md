@@ -9,7 +9,7 @@
 
 ### Dæmi : Gerður kóða sem tekur inn dagsetningu `dagu, mánuður` og finnur síðan út hvað það er lángt í Hrekjavöku það er gert ráð fyirir því að það er ekki hlaupár
 
-### Inntak : lína 1 : dagur og lína 2 : mánudði
+### Inntak : lína 1 : dagur (int) og lína 2 : mánudði (int)
 
 ### Úttak : fjödli daga til hrekjarvöku
 
